@@ -1,9 +1,14 @@
-# api documentation for  [node-repl (v2.0.2)](https://github.com/maxogden/node-repl)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-repl.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-repl) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-repl.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-repl)
+# npmdoc-node-repl
+
+#### api documentation for  [node-repl (v2.0.2)](https://github.com/maxogden/node-repl)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-repl.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-repl) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-repl.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-repl)
+
 #### run a node program but also attach a repl to the same context that your code runs in so you can inspect + mess with stuff as your program is running
 
-[![NPM](https://nodei.co/npm/node-repl.png?downloads=true)](https://www.npmjs.com/package/node-repl)
+[![NPM](https://nodei.co/npm/node-repl.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-repl)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-node-repl/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-node-repl_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-node-repl/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-node-repl/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-node-repl/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-node-repl/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-node-repl/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-node-repl/build/screenCapture.npmPackageListing.svg)
 
@@ -41,17 +46,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "maxogden",
-            "email": "max+DONT+EMAIL+ME@maxogden.com"
+            "name": "maxogden"
         },
         {
-            "name": "mafintosh",
-            "email": "mathiasbuus@gmail.com"
+            "name": "mafintosh"
         }
     ],
     "name": "node-repl",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/maxogden/node-repl.git"
@@ -62,16 +64,6 @@
     "version": "2.0.2"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module node-repl](#apidoc.module.node-repl)
-
-
-
-# <a name="apidoc.module.node-repl"></a>[module node-repl](#apidoc.module.node-repl)
 
 
 
