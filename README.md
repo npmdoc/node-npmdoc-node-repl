@@ -1,6 +1,6 @@
 # npmdoc-node-repl
 
-#### api documentation for  [node-repl (v2.0.2)](https://github.com/maxogden/node-repl)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-repl.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-repl) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-repl.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-repl)
+#### basic api documentation for  [node-repl (v2.0.2)](https://github.com/maxogden/node-repl)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-repl.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-repl) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-repl.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-repl)
 
 #### run a node program but also attach a repl to the same context that your code runs in so you can inspect + mess with stuff as your program is running
 
